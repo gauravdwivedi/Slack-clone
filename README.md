@@ -66,3 +66,26 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+## Project Structure
+
+1. Wireframing - Draw rought sketch of what you are actually going to build
+2. Functionality
+   _ Sign-In
+   _ Sign up
+   _ Create a channel
+   _ Send message in a channel
+   _ Join a channel
+   _ Search a channel
+   3.Data
+   _ users
+   _ channels
+   _ messages
+   4.UI components
+   _ Sidebar
+   _ ListofChannel
+   _ ListOfDirectMessages
+   _ MainContainer
+   _ Header
+   _ Message
+   _ CreateMessage \* Sign-In
