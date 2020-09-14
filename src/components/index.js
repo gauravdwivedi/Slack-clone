@@ -1,7 +1,4 @@
-import React from "react";
-import App from "App.js";
-function index() {
-  return <div></div>;
-}
+import App from "./App.js";
+import SignIn from "./SignIn.js";
 
-export default index;
+export { App, SignIn };
